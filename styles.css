@@ -1,0 +1,213 @@
+img {
+  color: white;
+}
+.name{
+  font-size: 1.6rem;
+  font-family: monospace;
+  margin:2px auto;
+
+}
+.data{
+  font-family: monospace;
+}
+
+.nav_name{
+  color:white;
+  font-family: monospace;
+  margin:auto;
+}
+.nav_names{
+  color:grey;
+  text-align: center;
+  margin:auto;
+  font-family: monospace;
+}
+.nav_names_job{
+  color:grey;
+  text-align: center;
+  margin:1px 15px 10px auto;
+  font-family: monospace;
+}
+.nav_names_1{
+  color:grey;
+  text-align: center;
+  margin:20px 10px 4px -10px;
+  font-family: monospace;
+
+}
+.free{
+  color:#dccea4;
+}
+
+.nav-1 {
+  display: inline-block;
+  margin-left: 30%;
+}
+
+.nav {
+  display: inline;
+  margin-top:5px;
+  padding-right: 15px;
+  padding-left: 15px;
+}
+.nav_jobs{
+  margin-top:15px;
+  display: inline;
+
+  padding-right: 15px;
+  padding-left: 15px;
+}
+.nav-image{
+  height:32px;
+  width:32px;
+}
+
+.image {
+  margin: -15% 50% 0 34%;
+  height: 70px;
+  width: 70px;
+}
+
+.profile_section {
+  background-image: url("image/bg_image.JPG");
+  background-size: 462px;
+  background-size: cover;
+  border-color: white;
+}
+
+.info {
+  border: solid grey 1px;
+  margin: 15% 5% 1% 40%;
+  height: 425px;
+  width: 216px;
+  text-align: center;
+}
+
+.bar {
+  background-color: #283e4a;
+  height: 52px;
+  width: 100%;
+}
+
+.navbar {
+  padding: 2px 5px 2px 20px;
+  margin: 0 3% 0 60%;
+  height:50px;
+}
+
+.search {
+  width:8%;
+  height: 30px;
+  border-radius: 2px;
+  border-color: #e1e9ee;
+  padding: 0 200px 0 10px;
+  line-height: 1.75;
+  color: #e1e9ee;
+  font-weight: 400;
+  font-size: 14px;
+  text-align: left;
+  margin:0px 30px;
+}
+
+.navbar-1 .nav :hover {
+  color: white;
+}
+
+.post {
+  border: solid grey 1px;
+  padding: 10px 20px 5px 30px;
+  margin: -430px 100px -440px 350px;
+  height: 120px;
+  width: 552px;
+}
+
+.icons {
+  margin:auto;
+
+}
+
+.icon_name{
+  display: inline;
+margin:100px 140px 200px 150px;
+}
+
+.jobs {
+  border: solid grey 1px;
+  margin: 35% 25% 10% 26.1%;
+  padding: 2%;
+  height: 185px;
+  width: 552px;
+}
+
+.ad {
+  border: solid grey 1px;
+  height: 540px;
+  width: 552px;
+  margin: -7% 2% 5% 26.1%;
+  padding-right: 52px;
+}
+
+.ad_pic {
+  height: 400px;
+  width: 604px;
+}
+
+.sub-section {
+  border: solid grey 1px;
+  width: 216px;
+  margin: 120% 150% -200% -62%;
+  padding-left: 5px;
+}
+.news{
+  border:solid grey 1px;
+  margin:-338% -50% 8% 310%;
+  height:317px;
+  width:312px;
+}
+.ad_posts{
+  border:solid grey 1px;
+  height:317px;
+  width:312px;
+  margin:-220% 80% 8% 209%;
+}
+.ig{
+  height:317px;
+  width:312px;
+}
+
+.dot{
+  margin:-20px -10px -20px -10px;
+}
+.head{
+  font-family: monospace;
+  font-size:0.9rem;
+  color:grey;
+  text-align: left;
+  margin-left:5px;
+}
+
+.connect{
+  margin:-200% 10% 14% 90%;
+}
+.in{
+  font-family: monospace;
+  text-align: left;
+  margin:-15%  0 2% 0;
+  margin-left: 5px;
+
+}
+.square{
+margin-left:5px;
+}
+.hi{
+  font-family: monospace;
+  color:#3186b2;
+}
+.hi_1{
+  font-family: monospace;
+  text-align: center;
+}
+.h{
+  font-family: monospace;
+
+}
